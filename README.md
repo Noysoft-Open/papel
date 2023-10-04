@@ -7,7 +7,7 @@ Text Editor with PyQt5
 	<li>pip install cx_Freeze</li>
 </ul>
 
-<h5>To Build</h5>
+<h5>To Build for Linux</h5>
 <ul>
 	<li>python papel/setup.py build</li>
 </ul>
